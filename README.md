@@ -7,10 +7,10 @@ A Python package to identify common motif in sequences.
 
 ## Requirements
 
-muSignAl was coded in Python v3.6, and require a few libraries (`numpy`, `math`, `random`, and `weblogo`) to be pre-installed, which can be installed as below:
+muSignAl was coded in Python v3.6, and require a couple of libraries (`numpy` and `weblogo`) to be pre-installed, which can be installed as below:
 
 ```
-pip install numpy
+pip install numpy weblogo
 ```
 
 ## Installation
