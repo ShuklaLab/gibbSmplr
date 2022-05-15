@@ -4,7 +4,6 @@ A Python package to identify common motif in sequences.
 **Visit us at:** [Shukla Lab](https://shuklalab.github.io/)
 
 ![GitHub](https://img.shields.io/github/license/ShuklaLab/gibbSmplr)
-![GitHub Pipenv locked Python version](https://img.shields.io/github/pipenv/locked/python-version/ShuklaLab/gibbSmplr)
 
 ## Requirements
 
