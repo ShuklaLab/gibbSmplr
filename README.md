@@ -24,7 +24,7 @@ pip install git+https://github.com/ShuklaLab/gibbSmplr.git
 
 To update the package just run the same command again.
 
-A test script (`test.py`), ran on a sample dataset (`seq.fa`) and its final output (`seq.eps`) are present in the `example` folder.
+A test script (`test.py`), ran on a sample dataset (`seq.fa`) and its final output (`seq_100seed_7mer_1000000sims.eps`) are present in the `example` folder.
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
