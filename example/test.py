@@ -1,3 +1,5 @@
+from gibbSmplr.func import runGS
+
 file='seq.fa'
 kmer=7
 sims=1000000
