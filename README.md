@@ -15,7 +15,7 @@ pip install numpy weblogo
 
 ## Installation
 
-To install the latest version of muSignAl, please follow the steps:
+To install the latest version of gibbSmplr, please follow the steps:
 
 ```
 pip install git+https://github.com/ShuklaLab/gibbSmplr.git
